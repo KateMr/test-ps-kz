@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23" width="20" height="20">
+	<title>icon1</title>
+	<defs>
+		<image width="20" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAD9JREFUOE9j/P///38GJMDIyMiIzCdZnmQNhCwc/AYihxc12CgRMEIMHPyxPPhdSI2kglIWjEADB38sD3oXAgDKnI/lxWCGxwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 57" href="#img1" transform="matrix(1,0,0,1,1,2)"/>
+</svg>

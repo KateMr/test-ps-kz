@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<title>Layer 73</title>
+	<defs>
+		<image width="20" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAX9JREFUOE+lkz9IHGEQxX+viiCWIiKYxoCIeop2KRRSapdWaztFAiIROxvRwk5rxc7WUiQWKcSAf8jZmCJgIdiJqAjhyRx3x96y696RgW2+efP75tt5IwrC9iYwCwjYl7QYJbaPgUGgDExJeozzEOWG7T1gJiXYAJaBf4nzUUnn7wJtbwELObf9APqBrmq+JOkyF2h7BVgr+h2J/LCkq0yg7TlgpwVYSLOBtr8CBzmwe2AX+JaR75Z019Ch7UkgJpcVAfsSz7IdwJh8MqYlHdaBtktAZUoZUYdFznYncAF0J7TPwLiksmx/BH4D7U3CjoChDO0DMBDA66oF0pqszvJgtdrrAPo/O2soD+AS8B1oAz5Us6129wTEt15ZPdsdwAhwkriuFegEcCrppb7LtnuA29Tzm4X2SfqT9mFMrrKPTUDTtgnL/GoWGLoiY7cMrEHzVi8TOAac5WxL0fFnST/TT+4F/hZV5uQ/SbppAFbtswrMJ/xYxH8FtiVFXSXeAEFMsG2lukFIAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 73" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+</svg>
